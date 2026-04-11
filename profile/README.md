@@ -1,4 +1,4 @@
-# Sherlo — Visual Testing for React Native Storybook
+# Sherlo - Visual Testing for React Native Storybook
 
 [Sherlo](https://sherlo.io) is an automated visual regression testing platform for React Native Storybook. It captures screenshots of your components on iOS and Android simulators in the cloud, detects visual changes, and surfaces them for team review.
 
@@ -8,9 +8,9 @@
 
 ## How it works
 
-1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android simulators in the cloud
-2. **🔍 Detect** – Visual changes are detected automatically against previous versions
-3. **👍 Review** – Your team reviews detected changes before they go live
+1. **📸 Capture** - Sherlo takes screenshots of your UI on iOS and Android simulators in the cloud
+2. **🔍 Detect** - Visual changes are detected automatically against previous versions
+3. **👍 Review** - Your team reviews detected changes before they go live
 
 ## Resources
 
