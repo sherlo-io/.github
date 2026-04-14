@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./og.jpg" alt="Sherlo - Visual Testing for React Native Storybook" width="800" />
+  <img src="./org-cover.png" alt="Sherlo - Visual Testing for React Native Storybook" />
 </p>
 
 # Visual Testing for React Native Storybook
