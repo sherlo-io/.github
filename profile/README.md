@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./org-cover.png" alt="Sherlo - Visual Testing for React Native Storybook" />
+  <img src="./org-cover.png" alt="Sherlo - Visual testing for React Native" />
 </p>
 
-# Visual Testing for React Native Storybook
+# Visual testing for React Native
 
-[Sherlo](https://sherlo.io) is an automated visual regression testing platform for React Native Storybook. It captures screenshots of your components on iOS and Android simulators in the cloud, detects visual changes, and surfaces them for team review.
+Sherlo is an automated [visual regression testing platform for React Native](https://sherlo.io), integrated with Storybook. It captures screenshots of your components on iOS and Android simulators in the cloud, detects visual changes, and surfaces them for team review.
 
 [![npm](https://img.shields.io/npm/v/@sherlo/react-native-storybook)](https://www.npmjs.com/package/@sherlo/react-native-storybook)
 [![npm downloads](https://img.shields.io/npm/dm/@sherlo/react-native-storybook.svg)](https://www.npmjs.com/package/@sherlo/react-native-storybook)
