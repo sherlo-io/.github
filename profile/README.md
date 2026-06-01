@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./org-cover.png" alt="Sherlo - Visual testing for React Native" />
+  <img src="./org-cover.png?v2" alt="Sherlo - Visual testing for React Native" />
 </p>
 
 # Visual testing for React Native
