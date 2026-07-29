@@ -4,7 +4,7 @@
 
 # Visual testing for React Native
 
-Sherlo is an automated [visual regression testing platform for React Native](https://sherlo.io), integrated with Storybook. It captures screenshots of your components on iOS and Android simulators in the cloud, detects visual changes, and surfaces them for team review.
+[Sherlo](https://sherlo.io) is a visual regression testing tool for React Native. It captures screenshots of your components on iOS and Android simulators in the cloud, detects visual changes, and surfaces them for team review. Integrates with Storybook. Used in production by React Native teams, from fintech to social apps. Free plan, no credit card.
 
 [![npm](https://img.shields.io/npm/v/@sherlo/react-native-storybook)](https://www.npmjs.com/package/@sherlo/react-native-storybook)
 [![npm downloads](https://img.shields.io/npm/dm/@sherlo/react-native-storybook.svg)](https://www.npmjs.com/package/@sherlo/react-native-storybook)
